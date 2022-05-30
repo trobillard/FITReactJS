@@ -586,29 +586,29 @@ export const chatData = [
   {
     image:
       avatar2,
-    message: 'Roman Joined the Team!',
-    desc: 'Congratulate him',
+    message: 'Benjamin Sent a new Report!',
+    desc: 'Open it!',
     time: '9:08 AM',
   },
   {
     image:
       avatar3,
     message: 'New message received',
-    desc: 'Salma sent you new message',
+    desc: 'Thibaud sent you new message',
     time: '11:56 AM',
   },
   {
     image:
       avatar4,
     message: 'New Payment received',
-    desc: 'Check your earnings',
+    desc: 'Check it',
     time: '4:39 AM',
   },
   {
     image:
-      avatar,
-    message: 'Jolly completed tasks',
-    desc: 'Assign her new tasks',
+      avatar2,
+    message: 'Benjamin completed tasks',
+    desc: 'Assign him new tasks',
     time: '1:12 AM',
   },
 ];
@@ -803,10 +803,6 @@ export const medicalproBranding = {
     {
       image:
         avatar3,
-    },
-    {
-      image:
-        avatar2,
     },
     {
       image:
