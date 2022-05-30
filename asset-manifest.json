@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/trobillard.github.io/FITReactJS/static/css/main.a9eca478.css",
-    "main.js": "/trobillard.github.io/FITReactJS/static/js/main.437071bc.js",
-    "static/media/product4.jpg": "/trobillard.github.io/FITReactJS/static/media/product4.767417bea17688d6d8ce.jpg",
-    "static/media/product2.jpg": "/trobillard.github.io/FITReactJS/static/media/product2.e93f12ec1b20980a1bd1.jpg",
-    "static/media/product1.jpg": "/trobillard.github.io/FITReactJS/static/media/product1.b8efc7a24c281ed8911b.jpg",
-    "static/media/product9.jpg": "/trobillard.github.io/FITReactJS/static/media/product9.f32710d7119ba22e16d1.jpg",
-    "static/media/product3.jpg": "/trobillard.github.io/FITReactJS/static/media/product3.be6bce80c539b3222473.jpg",
-    "static/media/avatar3.png": "/trobillard.github.io/FITReactJS/static/media/avatar3.e4fc333cfa9ff3e09604.png",
-    "static/media/avatar.jpg": "/trobillard.github.io/FITReactJS/static/media/avatar.21fea02fc56bf67f0bbb.jpg",
-    "static/media/avatar4.jpg": "/trobillard.github.io/FITReactJS/static/media/avatar4.da69324ae053747a4932.jpg",
-    "static/media/avatar2.jpg": "/trobillard.github.io/FITReactJS/static/media/avatar2.7576785e04a399b42e1d.jpg",
-    "static/media/product8.jpg": "/trobillard.github.io/FITReactJS/static/media/product8.323ebcbe88240bd8423f.jpg",
-    "static/media/product7.jpg": "/trobillard.github.io/FITReactJS/static/media/product7.69341801e3f5245c8020.jpg",
-    "static/media/product6.jpg": "/trobillard.github.io/FITReactJS/static/media/product6.3260a3b510aa12fc136b.jpg",
-    "static/media/logoFit.jpg": "/trobillard.github.io/FITReactJS/static/media/logoFit.088184d91699d65189d0.jpg",
-    "static/media/product5.jpg": "/trobillard.github.io/FITReactJS/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
-    "index.html": "/trobillard.github.io/FITReactJS/index.html",
-    "main.a9eca478.css.map": "/trobillard.github.io/FITReactJS/static/css/main.a9eca478.css.map",
-    "main.437071bc.js.map": "/trobillard.github.io/FITReactJS/static/js/main.437071bc.js.map"
+    "main.css": "/FITReactJS/static/css/main.a9eca478.css",
+    "main.js": "/FITReactJS/static/js/main.73e4cc37.js",
+    "static/media/product4.jpg": "/FITReactJS/static/media/product4.767417bea17688d6d8ce.jpg",
+    "static/media/product2.jpg": "/FITReactJS/static/media/product2.e93f12ec1b20980a1bd1.jpg",
+    "static/media/product1.jpg": "/FITReactJS/static/media/product1.b8efc7a24c281ed8911b.jpg",
+    "static/media/product9.jpg": "/FITReactJS/static/media/product9.f32710d7119ba22e16d1.jpg",
+    "static/media/product3.jpg": "/FITReactJS/static/media/product3.be6bce80c539b3222473.jpg",
+    "static/media/avatar3.png": "/FITReactJS/static/media/avatar3.e4fc333cfa9ff3e09604.png",
+    "static/media/avatar.jpg": "/FITReactJS/static/media/avatar.21fea02fc56bf67f0bbb.jpg",
+    "static/media/avatar4.jpg": "/FITReactJS/static/media/avatar4.da69324ae053747a4932.jpg",
+    "static/media/avatar2.jpg": "/FITReactJS/static/media/avatar2.7576785e04a399b42e1d.jpg",
+    "static/media/product8.jpg": "/FITReactJS/static/media/product8.323ebcbe88240bd8423f.jpg",
+    "static/media/product7.jpg": "/FITReactJS/static/media/product7.69341801e3f5245c8020.jpg",
+    "static/media/product6.jpg": "/FITReactJS/static/media/product6.3260a3b510aa12fc136b.jpg",
+    "static/media/logoFit.jpg": "/FITReactJS/static/media/logoFit.088184d91699d65189d0.jpg",
+    "static/media/product5.jpg": "/FITReactJS/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
+    "index.html": "/FITReactJS/index.html",
+    "main.a9eca478.css.map": "/FITReactJS/static/css/main.a9eca478.css.map",
+    "main.73e4cc37.js.map": "/FITReactJS/static/js/main.73e4cc37.js.map"
   },
   "entrypoints": [
     "static/css/main.a9eca478.css",
-    "static/js/main.437071bc.js"
+    "static/js/main.73e4cc37.js"
   ]
 }
