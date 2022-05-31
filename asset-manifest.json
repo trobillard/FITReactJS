@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FITReactJS/static/css/main.a9eca478.css",
-    "main.js": "/FITReactJS/static/js/main.73e4cc37.js",
+    "main.js": "/FITReactJS/static/js/main.6c85c8a4.js",
     "static/media/product4.jpg": "/FITReactJS/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/FITReactJS/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "/FITReactJS/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -18,10 +18,10 @@
     "static/media/product5.jpg": "/FITReactJS/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "/FITReactJS/index.html",
     "main.a9eca478.css.map": "/FITReactJS/static/css/main.a9eca478.css.map",
-    "main.73e4cc37.js.map": "/FITReactJS/static/js/main.73e4cc37.js.map"
+    "main.6c85c8a4.js.map": "/FITReactJS/static/js/main.6c85c8a4.js.map"
   },
   "entrypoints": [
     "static/css/main.a9eca478.css",
-    "static/js/main.73e4cc37.js"
+    "static/js/main.6c85c8a4.js"
   ]
 }
