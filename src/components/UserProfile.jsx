@@ -29,7 +29,7 @@ const UserProfile = () => {
         />
         <div>
           <p className="font-semibold text-xl dark:text-gray-200"> Oranuch Sirisucharittham (Chompoo)  </p>
-          <p className="text-gray-500 text-sm dark:text-gray-400">  Administrator   </p>
+          <p className="text-gray-500 text-sm dark:text-gray-400">  Kitchen Operator (Chief)   </p>
           <p className="text-gray-500 text-sm font-semibold dark:text-gray-400"> info@lbec.com </p>
         </div>
       </div>
